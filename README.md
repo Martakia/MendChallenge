@@ -3,7 +3,7 @@ Mend Coding Challenge
 
 ## Challenge
 
-Reach out to https://www.senate.gov/general/contact_information/senators_cfm.xml and convert the XML datat to the following JSON format. 
+Reach out to https://www.senate.gov/general/contact_information/senators_cfm.xml and convert the XML data to the following JSON format. 
 ```
 {
   “firstName”: “First”,
